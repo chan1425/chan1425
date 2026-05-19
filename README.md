@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anwesha</h1>
 
-<!--
-**chan1425/chan1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Enthusiast | B.Tech IT Student | Building real-world tech projects
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 B.Tech Information Technology student  
+- 🤖 Interested in AI/ML, Deep Learning, Computer Vision, and Web Development  
+- 🧠 Worked on drug classification using machine learning  
+- 🔍 Currently working on deepfake detection as a semester project  
+- 🌱 Learning model deployment, MLOps basics, and full-stack AI applications  
+- 💬 Ask me about Python, ML, Deep Learning, Web Dev, and GitHub projects  
+
+---
+
+### 🛠️ Tech Stack
+
+Python | C | C++ | JavaScript | React | HTML | CSS | Git | GitHub | Jupyter Notebook | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | OpenCV | Streamlit
+
+---
+
+### 🚀 Featured Projects
+
+- Drug Detection and Classification using ML  
+- Deepfake Detection System  
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/anwesha-chaudhury-67a050292
+Email: chaudhuryanwesha19@gmail.com
